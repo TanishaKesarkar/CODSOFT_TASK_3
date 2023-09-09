@@ -1,0 +1,42 @@
+.name{
+    color: cyan;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    border: 20px;
+}
+.structure{
+    border:1px solid #23032c;
+    padding:20px;
+    border-radius: 16px;
+    background:#530d6c;
+    box-shadow: 0px 3px 15px rgba(232, 216, 237, 0.5);
+}
+body{
+    background: radial-gradient(#b941e5, #750468);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    font-size:large;
+    width: 60px;
+    height: 60px;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+    cursor:pointer;
+    box-shadow: 0px 3px 15px rgba(194, 7, 169, 0.5);
+}
+
+.row input{
+   width:250px;
+   font-size: 22px; 
+   cursor:pointer ;
+   margin:10px;
+   padding:40px;
+   border:2px solid black;
+   border-radius: 10px;
+   box-shadow: 0px 3px 15px rgba(212, 204, 211, 0.5);
+}
